@@ -12,20 +12,9 @@
       <button id="whatisthatbutton" class="game-button">
         <img src="objects/prod/question.jpg" alt="Button 1" width="50" height="50">
       </button>
-      <!-- <button id="obj-button2" class="obj-button">
-        <img src="objects/prod/penguin.png" alt="Button 2" width="50" height="50">
-      </button>
-      <button id="obj-button3" class="obj-button">
-        <img src="objects/prod/star.png" alt="Button 3" width="50" height="50">
-      </button> -->
     </div>
 
     <div id="gameboard">
-      <!-- <div class="object" id="object1" onclick="checkObject('object1')"> </div> -->
-      <!-- <div class="object" id="object1" onclick="checkObject('object1')"> </div> -->
-      <!-- <div class="object" id="object1" onclick="checkObject('object1')"> </div>
-      <div class="object hidden" id="object2" onclick="checkObject('object2')"> </div>
-      <div class="object hidden" id="object3" onclick="checkObject('object3')"> </div> -->
     </div>
  
     <div id="loader">
