@@ -7,7 +7,7 @@ $postData = [
     "response_format" => $postData['response_format'],
 ];
 $ch = curl_init();
-$OPENAI_API_KEY = "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";
+$OPENAI_API_KEY = "MY_API_KEY";
 $headers  = [
     'Accept: application/json',
     'Content-Type: multipart/form-data',
