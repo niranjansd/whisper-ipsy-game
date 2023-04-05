@@ -16,6 +16,11 @@
 
     <div id="gameboard">
     </div>
+    <!-- add hidden div element -->
+    <!-- <div id="hidden">
+    </div> -->
+    <!-- <div id="detected" hidden="hidden" contenteditable="true">
+    </div> -->
  
     <div id="loader">
       <div class="spinner"></div>
@@ -31,6 +36,6 @@
     <script src="js/jquery.cookie.min.js"></script>
     <script src="js/layer.min.js" type="application/javascript"></script>
     <script src="js/whatisthat.js"></script>
-    <script src="js/app.js"></script>
+    <!-- <script src="js/app.js"></script> -->
   </body>
 </html>
